@@ -1,0 +1,1 @@
+This bot increases views on the articles
